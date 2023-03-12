@@ -7,3 +7,8 @@
 $ python project.py
 Run python file named project.py
 ```
+
+- [x] Add headers
+- [x] Add image
+- [x] Add code example
+- [ ] Make a task list
